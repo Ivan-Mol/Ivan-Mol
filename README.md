@@ -18,7 +18,7 @@ In addition to complete projects, you will find a variety of code examples that 
 - Error handling and exception management
 - Unit testing using JUnit
 
-## Other Skills:
+## Other skills:
 [![My Skills](https://skillicons.dev/icons?i=ps,figma,ableton)](https://skillicons.dev)
 
 ## And also:
