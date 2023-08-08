@@ -1,14 +1,14 @@
-### Hi there 👋
-
-## Skills and experience
-
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,postgres,hibernate,docker,postman,rabbitmq)](https://skillicons.dev)
+##Hi there 👋
 
 During my studies, I worked on several projects that allowed me to apply my Java skills and gain practical experience. One of my notable projects involved developing a web application using Spring Boot and integrating it with a MySQL database. I successfully implemented features such as user authentication, CRUD operations, and RESTful API endpoints.
 I am passionate about staying updated with advancements in the Java ecosystem and continuously learning new technologies. I enjoy challenging myself and exploring innovative solutions to complex problems.
 
 This repository contains projects and code examples showcasing my skills and experience as a Java developer. Here, you will find a collection of Java applications, algorithms, and frameworks that I have worked on.
+
+### Skills and experience
+
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,postgres,hibernate,docker,postman,rabbitmq)](https://skillicons.dev)
 
 In addition to complete projects, you will find a variety of code examples that demonstrate my expertise in various aspects of Java development, including:
 
