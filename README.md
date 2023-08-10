@@ -18,6 +18,9 @@ In addition to complete projects, you will find a variety of code examples that 
 - Error handling and exception management
 - Unit testing using JUnit
 
+[![Codewars Badge](https://www.codewars.com/users/Ivan%20M/badges/large)](https://www.codewars.com/users/Ivan%20M)
+
+
 ## Other skills:
 [![My Skills](https://skillicons.dev/icons?i=ps,figma,ableton)](https://skillicons.dev)
 
