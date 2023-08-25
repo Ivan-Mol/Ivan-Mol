@@ -7,7 +7,7 @@ This repository contains projects and code examples showcasing my skills and exp
 ## Skills and experience:
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,postgres,hibernate,docker,postman,rabbitmq,webflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,postgres,hibernate,docker,postman,rabbitmq,webflow,Bootstrap,)](https://skillicons.dev)
 
 In addition to complete projects, you will find a variety of code examples that demonstrate my expertise in various aspects of Java development, including:
 
