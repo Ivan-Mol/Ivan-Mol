@@ -11,6 +11,7 @@ This repository contains projects and code examples showcasing my skills and exp
 
 In addition to complete projects, you will find a variety of code examples that demonstrate my expertise in various aspects of Java development, including:
 
+- Spring Boot
 - Data structures and algorithms implementation
 - Object-oriented programming principles
 - Database operations using JDBC and SQL
