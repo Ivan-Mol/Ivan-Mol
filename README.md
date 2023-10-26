@@ -13,7 +13,7 @@ In addition to complete projects, you will find a variety of code examples that 
 - Spring Boot
 - Data structures and algorithms implementation
 - Object-oriented programming principles
-- Database operations using JDBC and SQL
+- Database operations using JDBC, Hibernate and SQL
 - Error handling and exception management
 - Unit testing using JUnit
 
