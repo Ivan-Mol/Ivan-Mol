@@ -16,6 +16,7 @@ In addition to complete projects, you will find a variety of code examples that 
 - Database operations using JDBC, Hibernate and SQL
 - Error handling and exception management
 - Unit testing using JUnit
+- Mockito
 - Docker
 - RabbitMq
 
