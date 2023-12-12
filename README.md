@@ -10,7 +10,7 @@ This repository contains projects and code examples showcasing my skills and exp
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,postgres,hibernate,docker,postman,rabbitmq,webflow,bootstrap,)](https://skillicons.dev)
 
 In addition to complete projects, you will find a variety of code examples that demonstrate my expertise in various aspects of Java development, including:
-- Spring Boot
+- Spring Boot(MVC, JPA, Security)
 - Data structures and algorithms implementation
 - Object-oriented programming principles
 - Database operations using JDBC, Hibernate and SQL
