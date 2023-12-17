@@ -2,7 +2,7 @@
 
 Hi everyone! 
 
-This repository contains projects and code examples showcasing my skills and experience as a Java developer. Here, you will find a collection of Java applications, algorithms, and frameworks that I have worked on.
+This repository contains projects and code examples showcasing my skills and experience. Here, you will find a collection of Java applications, algorithms, and frameworks that I have worked on.
 
 ## Skills and experience:
 
