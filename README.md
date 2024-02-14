@@ -20,7 +20,7 @@ In addition to complete projects, you will find a variety of code examples that 
 - Docker
 - RabbitMq
 
-[![Codewars Badge](https://www.codewars.com/users/Ivan%20M/badges/small)](https://www.codewars.com/users/Ivan%20M)
+[![Codewars Badge](https://www.codewars.com/users/Ivan%20M/badges/large)](https://www.codewars.com/users/Ivan%20M)
 
 
 ## Other skills:
