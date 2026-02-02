@@ -1,13 +1,14 @@
 ## Info:
 
-Hi everyone! 
+Hi there!
 
-This repository contains projects and code examples showcasing my skills and experience.
+I'm a professional Java developer with a strong focus on backend engineering. 
+My expertise lies in architecting, designing, and implementing enterprise-level applications using Spring Boot, microservices, with a constant focus on code maintainability and system resilience.
 
 ## Skills and experience:
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,postgres,hibernate,docker,postman,rabbitmq,kafka,webflow,bootstrap,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,postgres,hibernate,docker,kubernetes,postman,rabbitmq,kafka,bitbucket,grafana,jenkins)](https://skillicons.dev)
 
 In addition to complete projects, you will find a variety of code examples including:
 - Spring Boot(MVC, JPA, Security)
@@ -16,15 +17,17 @@ In addition to complete projects, you will find a variety of code examples inclu
 - Database operations using JDBC, Hibernate and SQL
 - Error handling and exception management
 - Unit testing using JUnit
-- Mockito
 - Docker
 - RabbitMq
+- Jenkins
+- Grafana
+- Kubernetes
 
 [![Codewars Badge](https://www.codewars.com/users/Ivan%20M/badges/large)](https://www.codewars.com/users/Ivan%20M)
 
 
 ## Other skills:
-[![My Skills](https://skillicons.dev/icons?i=ps,figma,ableton)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,figma,ableton,bots)](https://skillicons.dev)
 
 
 <!--
