@@ -17,11 +17,6 @@ In addition to complete projects, you will find a variety of code examples inclu
 - Database operations using JDBC, Hibernate and SQL
 - Error handling and exception management
 - Unit testing using JUnit
-- Docker
-- RabbitMq
-- Jenkins
-- Grafana
-- Kubernetes
 
 [![Codewars Badge](https://www.codewars.com/users/Ivan%20M/badges/large)](https://www.codewars.com/users/Ivan%20M)
 
