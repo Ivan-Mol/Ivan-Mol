@@ -3,7 +3,7 @@
 Hi there!
 
 I'm a professional Java developer with a strong focus on backend engineering. 
-My expertise lies in architecting, designing, and implementing enterprise-level applications using Spring Boot, microservices, with a constant focus on code maintainability and system resilience.
+My expertise lies in architecting, designing, and implementing enterprise-level applications using Spring Boot, microservices, with a constant focus on code maintainability and system resilience. My primary interests are in embedding automation and artificial intelligence into both the development workflows and the core architecture of enterprise platforms.
 
 ## Skills and experience:
 
